@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gemeliezer12
-- 👀 I’m interested in Web and Game Development want to be a great 2D Artist
-- 🌱 I’m currently learning Web Development(HTML, CSS, JavaScript, MySQL and PHP)
+- 👀 I’m a software developer and like art
+- 🌱 I’m currently learning Web Development(HTML, CSS, JavaScript, React, AJAX, MySQL and PHP)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
